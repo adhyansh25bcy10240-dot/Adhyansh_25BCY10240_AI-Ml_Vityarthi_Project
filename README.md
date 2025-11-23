@@ -29,10 +29,13 @@ STEP 9: The process terminates when all reachable nodes from the start have been
 
 # SOFTWARE USED
 
-Programming Language: Python was used.
+Programming Language: Python was used.(python 3 is freely available to installed from https://www.python.org/downloads/)
 
 Version Control: Git and GitHub were utilized.
 
 Code Editor: VS Code (Visual Studio Code) was the code editor
+
+# PURPOSE
+DFS has its application in mutliple fields.Depth First Search (DFS) is a important graph traversal algorithm used for complete exploration where deep paths are at priority first. Its recursive nature makes it ideal for topological sort. DFS is also the backbone for solving puzzles like mazes or Sudoku,has its applications in traffic and network optimisation as it aggressively follows a single path to a solution before backtracking. Additionally, it is essential in network analysis for finding connected nodes and identifying critical  points/nodes.
 
 # Made by- (Adhyansh Raina,25BCY10240)
